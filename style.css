@@ -1,0 +1,32 @@
+p{
+    color: #000000ee;
+    font-weight: bold;
+    font-size:40px;
+}
+h1{
+    color:brown;       
+}
+
+h2{
+    color:red;
+}
+a:hover{
+    color:pink;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:orange;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border:solid;
+}
+.item{
+    margin:2px;
+    border:solid;
+    padding: 1px;
+}
